@@ -1,5 +1,4 @@
-{ "aba":
-	{ "baba": "wea" },
-		
-  "ss":"ee"
+{
+    "aba.baba": "wea2",
+    "ss": "ee"
 }
